@@ -81,5 +81,5 @@ Organizations handle vast amounts of sensitive information daily. Without proper
 ### **Conclusion**
 Azure Data Loss Prevention is an essential tool for organizations aiming to protect sensitive data, ensure regulatory compliance, and build a resilient security posture. By leveraging its powerful features and following best practices, businesses can minimize the risk of data leaks while enabling secure collaboration. Start implementing Azure DLP today to safeguard your organization’s most valuable asset: its data.
 
-Have questions or need help with Azure DLP? Feel free to reach out.
+Have questions or need help with Azure DLP? Feel free to reach out ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me).
 
