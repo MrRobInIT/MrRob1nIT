@@ -13,3 +13,4 @@ I’m an IT professional with over 18 years of experience in IT infrastructure a
 - [Protecting Sensitive Data with Azure Data Loss Prevention (DLP)](azure-dlp.md)
 - [Streamlining Windows OS Deployment with Microsoft Intune and Autopilot](intune-autopilot.md)
 - [Best Practices for Disaster Recovery Planning in IT](dr-planning.md)
+- [IT Asset Management: Why It’s Critical and How to Do It Right](asset-mgmt.md)
