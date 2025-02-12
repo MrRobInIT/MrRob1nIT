@@ -110,5 +110,5 @@ Get-ChildItem -Path "C:\Logs" -Recurse | Where-Object {$_.LastWriteTime -lt (Get
 PowerShell is an indispensable tool for IT automation, offering flexibility, efficiency, and scalability. By leveraging PowerShell scripting, IT professionals can reduce manual workloads, improve system reliability, and enhance security.
 
 Are you ready to streamline your IT processes with PowerShell? Start by automating small tasks and gradually expand your automation toolkit!
-[MrRob1nIT@pm.me](mailto:MrRob1inIT.com)
+[mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)
 
