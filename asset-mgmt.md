@@ -90,5 +90,5 @@ IT Asset Management is more than just keeping an inventory; it’s a strategic p
 
 Are you ready to optimize your IT asset management strategy? Start today by evaluating your current asset tracking processes and identifying areas for improvement.
 
-Have any insights or experiences with IT asset management? Share your thoughts!
+Have any insights or experiences with IT asset management? Share your thoughts ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)!
 
