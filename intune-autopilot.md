@@ -104,5 +104,5 @@ Microsoft Intune and Windows Autopilot revolutionize Windows OS deployment by au
 
 Need guidance on setting up Intune and Autopilot? Reach out for support ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)!
 
-✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)
+## [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
 
