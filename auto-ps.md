@@ -112,3 +112,6 @@ PowerShell is an indispensable tool for IT automation, offering flexibility, eff
 Are you ready to streamline your IT processes with PowerShell? Start by automating small tasks and gradually expand your automation toolkit!
 [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)
 
+## [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
+
+
