@@ -4,7 +4,7 @@ I’m an IT professional with over 18 years of experience in IT infrastructure a
 ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/robertmoss10/)
 
 ---
-# Welcome to My Cybersecurity Blog
+# Welcome to My Cyber Blog
 
 
 ## Latest Posts
