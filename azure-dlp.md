@@ -83,3 +83,5 @@ Azure Data Loss Prevention is an essential tool for organizations aiming to prot
 
 Have questions or need help with Azure DLP? Feel free to reach out ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me).
 
+## [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
+
