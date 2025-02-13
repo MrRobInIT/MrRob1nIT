@@ -82,3 +82,5 @@ Feel free to reach out for collaborations or questions regarding security and te
 ---
 
 > "Embracing the challenges of tomorrow with the knowledge and expertise of today."
+
+## [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
