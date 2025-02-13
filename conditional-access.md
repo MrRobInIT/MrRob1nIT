@@ -78,3 +78,5 @@ Conditional Access is a vital tool in the modern security toolkit, offering a ba
 Are you ready to elevate your organization’s security? Start implementing Conditional Access today and experience the benefits of smarter, more secure access management.
 ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)
 
+## [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
+
