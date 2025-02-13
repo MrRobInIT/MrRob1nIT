@@ -94,3 +94,5 @@ Are you ready to optimize your IT asset management strategy? Start today by eval
 
 Have any insights or experiences with IT asset management? Share your thoughts ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)!
 
+## [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
+
