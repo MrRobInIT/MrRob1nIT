@@ -3,7 +3,8 @@ I’m an IT professional with over 18 years of experience in IT infrastructure a
 
 ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/robertmoss10/)
 
-{{ "now -1" | date: "%B %d, %Y" }}
+{{ "now" | date: "%B %d, %Y" | time_zone: "America/New_York" }}
+
 
 ---
 # Welcome to My Cyber Blog
