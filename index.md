@@ -16,3 +16,4 @@ I’m an IT professional with over 18 years of experience in IT infrastructure a
 - [IT Asset Management: Why It’s Critical and How to Do It Right](asset-mgmt.md)
 - [Automating IT Tasks with PowerShell: A Beginner’s Guide](auto-ps.md)
 - [Insider Threats: How to Detect and Mitigate Them in Your Organization](inside_threat.md)
+- [Managing Hybrid Active Directory Environments: Challenges and Solutions](mg_hybrid_ad.md)
