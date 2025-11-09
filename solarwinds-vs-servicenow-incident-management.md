@@ -128,3 +128,9 @@ Choosing the right ITSM platform for incident management often comes down to tra
 
 #### Bottom line
 Both platforms can deliver robust incident management. SolarWinds Service Desk emphasizes speed, simplicity, and solid defaults—ideal for small to mid-sized teams or those prioritizing quick wins. ServiceNow ITSM excels in scale, extensibility, and enterprise alignment—best where incident management is part of a broader strategy spanning CMDB, SecOps, risk, and enterprise workflows.
+
+[Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
+
+Have any insights or experiences with IT Service Management? Share your thoughts ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)!
+
+## [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
