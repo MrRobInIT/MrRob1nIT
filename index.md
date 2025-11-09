@@ -20,3 +20,4 @@ I’m an IT professional with over 20 years of experience in IT infrastructure a
 - 23FEB2025 - [Automating IT Tasks with PowerShell: A Beginner’s Guide](auto-ps.md)
 - 10MAR2025 - [Insider Threats: How to Detect and Mitigate Them in Your Organization](inside_threat.md)
 - 11MAR2025 - [Managing Hybrid Active Directory Environments: Challenges and Solutions](mg_hybrid_ad.md)
+- 08NOV3035 - [SolarWinds Service Desk vs ServiceNow Incident Management](solarwinds-vs-servicenow-incident-management.md)
