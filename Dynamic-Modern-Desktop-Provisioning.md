@@ -115,6 +115,8 @@ After rename and reboot, Entra ID dynamic user groups automatically push the cor
 - [Microsoft Intune Admin Center](https://intune.microsoft.com)
 - [Entra Admin Center](https://entra.microsoft.com)
 
+---
+
 Has your organization faced challenges similar to this? Share your experiences or best practices ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me)!
 
 [Back to MrRob1nIT's Blog](https://mrrobinit.github.io/MrRob1nIT/)
