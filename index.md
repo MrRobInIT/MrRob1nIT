@@ -1,6 +1,6 @@
 # Hi, I'm MrR0b1nIT, 
 *(Mr. Rob in IT)*
-I’m an IT professional with over 20 years of experience in IT infrastructure and cybersecurity. This blog is where I share insights on key topics in IT operations.
+I’m an IT professional with two decades of hands-on experience in infrastructure, cybersecurity, and systems administration. Throughout my career, I’ve focused on strengthening security, optimizing operations, and turning complex technical problems into practical solutions. Here, I share insights, strategies, and lessons learned from the field to help others navigate the evolving IT landscape.
 
 ✉️ [mrR0b1nIT@pm.me](mailto:mrR0b1nIT@pm.me) | 🔗 [LinkedIn](https://www.linkedin.com/in/robertmoss10/)
 
